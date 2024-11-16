@@ -1,18 +1,19 @@
+Here is the updated README.md file with reduced font sizes for the headings and text:  
 
-
+```markdown
 <div align="center">
-    <h1>🛠️ TranslatorTranFormer: A Hindi to Eng translator ! 🤖</h1>
+    <h3>🛠️ TranslatorTranFormer: A Hindi to Eng translator ! 🤖</h3>
 </div>
 
 ---
 
-### 📜 Introduction
+#### 📜 Introduction
 
-TranslatorTranFormer: is hindi to english translator devloped using Transformer arctecture from scratch.
+TranslatorTranFormer: is a Hindi to English translator developed using Transformer architecture from scratch.
 
 ---
 
-## 🌟 Features  
+### 🌟 Features  
 - **AI-Generated Hindi Poetry**: Original compositions inspired by traditional and modern Hindi poetic styles.  
 - **Diverse Inspiration**: Trained on classical, modern, and contemporary Hindi poetic works.  
 - **Creative Output**: Generates poems that emulate human-like creativity and emotion.  
@@ -20,7 +21,7 @@ TranslatorTranFormer: is hindi to english translator devloped using Transformer 
 
 ---
 
-## 🛠️ Technologies Used  
+### 🛠️ Technologies Used  
 - **Python**: For implementing the GPT model.  
 - **Transformers Library**: From Hugging Face for fine-tuning the GPT model.  
 - **Natural Language Processing (NLP)**: To preprocess and analyze Hindi poetic text.  
@@ -28,13 +29,13 @@ TranslatorTranFormer: is hindi to english translator devloped using Transformer 
 
 ---
 
-## 🚀 Getting Started  
+### 🚀 Getting Started  
 
-### Prerequisites  
+#### Prerequisites  
 - Python 3.8 or higher  
 - Pip package manager  
 
-### Installation  
+#### Installation  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/YourUsername/HindiPoetGPT.git
@@ -45,7 +46,7 @@ TranslatorTranFormer: is hindi to english translator devloped using Transformer 
    pip install -r requirements.txt
    ```  
 
-### Usage  
+#### Usage  
 1. Train the model:  
    ```bash
    python train_model.py
@@ -58,41 +59,41 @@ TranslatorTranFormer: is hindi to english translator devloped using Transformer 
 
 ---
 
-## 📂 Project Structure  
+### 📂 Project Structure  
 ```plaintext
 HindiPoetGPT/  
 ├── hindi_data/              # Dataset of Hindi poetic literature   
-├── main.py     # Model training script  
-├── generate_poem.py   # Poetry generation script  
-├── requirements.txt   # List of dependencies  
-└── README.md          # Project documentation  
+├── main.py                  # Model training script  
+├── generate_poem.py         # Poetry generation script  
+├── requirements.txt         # List of dependencies  
+└── README.md                # Project documentation  
 ```
 
 ---
 
-## 🎯 Goals  
+### 🎯 Goals  
 1. **Promote Hindi Literature**: Bring traditional and modern Hindi poetry to a broader audience using AI.  
 2. **Bridge Technology and Art**: Merge the computational capabilities of AI with the emotive art of poetry.  
 3. **Foster Creativity**: Enable users to create personalized poetic compositions.  
 
 ---
 
-## 🤝 Contributing  
+### 🤝 Contributing  
 Contributions are welcome! Whether it's improving the model, expanding the dataset, or enhancing features, feel free to submit a pull request or open an issue.
 
 ---
 
-## 📜 License  
+### 📜 License  
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
-## ❤️ Acknowledgments  
+### ❤️ Acknowledgments  
 HindiPoetGPT draws inspiration from the vast and rich history of Hindi poetry. A special thanks to all contributors of open-source tools and datasets that made this project possible.  
 
 ---
 
-## 🌐 Connect with Us  
+### 🌐 Connect with Us  
 - GitHub: [YourUsername](https://github.com/YourUsername)  
 - Twitter: [@YourHandle](https://twitter.com/YourHandle)  
 - Email: youremail@example.com  
@@ -102,4 +103,4 @@ HindiPoetGPT draws inspiration from the vast and rich history of Hindi poetry. A
 **Let the beauty of Hindi poetry transcend boundaries with HindiPoetGPT!**
 ```  
 
-Feel free to modify the links and placeholders to match your details. Let me know if you'd like further tweaks!
+Let me know if additional adjustments are needed!
