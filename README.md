@@ -11,7 +11,7 @@ TranslatorTranFormer: is a Hindi to English translator developed using Transform
 
 ---
 
-### 🌟 Features  
+#### 🌟 Features  
 - **AI-Generated Hindi Poetry**: Original compositions inspired by traditional and modern Hindi poetic styles.  
 - **Diverse Inspiration**: Trained on classical, modern, and contemporary Hindi poetic works.  
 - **Creative Output**: Generates poems that emulate human-like creativity and emotion.  
@@ -19,7 +19,7 @@ TranslatorTranFormer: is a Hindi to English translator developed using Transform
 
 ---
 
-### 🛠️ Technologies Used  
+#### 🛠️ Technologies Used  
 - **Python**: For implementing the GPT model.  
 - **Transformers Library**: From Hugging Face for fine-tuning the GPT model.  
 - **Natural Language Processing (NLP)**: To preprocess and analyze Hindi poetic text.  
@@ -27,7 +27,7 @@ TranslatorTranFormer: is a Hindi to English translator developed using Transform
 
 ---
 
-### 🚀 Getting Started  
+#### 🚀 Getting Started  
 
 #### Prerequisites  
 - Python 3.8 or higher  
