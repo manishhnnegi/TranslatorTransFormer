@@ -101,4 +101,3 @@ HindiPoetGPT draws inspiration from the vast and rich history of Hindi poetry. A
 **Let the beauty of Hindi poetry transcend boundaries with HindiPoetGPT!**
 ```  
 
-Let me know if additional adjustments are needed!
