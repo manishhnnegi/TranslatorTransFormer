@@ -1,6 +1,4 @@
-Here is the updated README.md file with reduced font sizes for the headings and text:  
 
-```markdown
 <div align="center">
     <h3>🛠️ TranslatorTranFormer: A Hindi to Eng translator ! 🤖</h3>
 </div>
