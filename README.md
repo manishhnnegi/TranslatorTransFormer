@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h3>🛠️ TranslatorTranFormer: A Hindi to Eng translator ! 🤖</h3>
+    <h2>🛠️ TranslatorTranFormer: A Hindi to Eng translator ! 🤖</h2>
 </div>
 
 ---
